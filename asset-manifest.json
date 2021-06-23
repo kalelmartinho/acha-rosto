@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/acha-rosto/static/css/main.2d937003.chunk.css",
+    "main.js": "/acha-rosto/static/js/main.c7a3e178.chunk.js",
+    "main.js.map": "/acha-rosto/static/js/main.c7a3e178.chunk.js.map",
+    "runtime-main.js": "/acha-rosto/static/js/runtime-main.1084ccb4.js",
+    "runtime-main.js.map": "/acha-rosto/static/js/runtime-main.1084ccb4.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/acha-rosto/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.9e8dc910.chunk.js": "/acha-rosto/static/js/2.9e8dc910.chunk.js",
+    "static/js/2.9e8dc910.chunk.js.map": "/acha-rosto/static/js/2.9e8dc910.chunk.js.map",
+    "static/js/3.01c57e35.chunk.js": "/acha-rosto/static/js/3.01c57e35.chunk.js",
+    "static/js/3.01c57e35.chunk.js.map": "/acha-rosto/static/js/3.01c57e35.chunk.js.map",
+    "index.html": "/acha-rosto/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/acha-rosto/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.2d937003.chunk.css.map": "/acha-rosto/static/css/main.2d937003.chunk.css.map",
+    "static/js/2.9e8dc910.chunk.js.LICENSE.txt": "/acha-rosto/static/js/2.9e8dc910.chunk.js.LICENSE.txt",
+    "static/media/face.2b95eefe.png": "/acha-rosto/static/media/face.2b95eefe.png",
+    "static/media/face2.32f6d2eb.png": "/acha-rosto/static/media/face2.32f6d2eb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1084ccb4.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.9e8dc910.chunk.js",
+    "static/css/main.2d937003.chunk.css",
+    "static/js/main.c7a3e178.chunk.js"
+  ]
+}
