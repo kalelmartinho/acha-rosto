@@ -1,0 +1,16 @@
+.form {
+    width: 800px;
+    background-color: #77F249;
+    background-image: linear-gradient(30deg, #43debc 12%, transparent 12.5%, transparent 87%, #43debc 87.5%, #43debc),
+    linear-gradient(150deg, #43debc 12%, transparent 12.5%, transparent 87%, #43debc 87.5%, #43debc),
+    linear-gradient(30deg, #43debc 12%, transparent 12.5%, transparent 87%, #43debc 87.5%, #43debc),
+    linear-gradient(150deg, #43debc 12%, transparent 12.5%, transparent 87%, #43debc 87.5%, #43debc),
+    linear-gradient(60deg, #96f9e2 25%, transparent 25.5%, transparent 75%, #96f9e2 75%, #96f9e2),
+    linear-gradient(60deg, #96f9e2 25%, transparent 25.5%, transparent 75%, #96f9e2 75%, #96f9e2);
+    background-size:80px 140px;
+    background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
+}
+
+.texting {
+    text-align: center;
+}
